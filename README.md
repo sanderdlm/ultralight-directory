@@ -21,12 +21,13 @@ Compiled list of ultralight vendors and their wares
 | [Beyond Clothing](http://www.beyondclothing.com) | US | Outdoor clothing & insulation | Yes | Yes |
 | [Black Rock gear](http://www.blackrockgear.com) | US | Backpack, beanie, gloves, insulated hoods | Yes | ? |
 | [BoneFire Gear](http://www.bonefiregear.com) | US | Hammocks, backpack | No | ? |
-| [Borah Gear](http://www.borahgear.com) | Bivys, tarp, stuff sacks & down clothing | Yes | Yes |
+| [Borah Gear](http://www.borahgear.com) | US | Bivys, tarp, stuff sacks & down clothing | Yes | Yes |
 | [Brasslite](http://www.brasslite.com) | US | Alcohol stoves | Yes | ? |
 | [Bushbuddy](http://www.bushbuddy.ca) | US | Wood stove | Yes | Yes |
 
 ### Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
+
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | Yes | 
@@ -52,14 +53,13 @@ Compiled list of ultralight vendors and their wares
 | [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | Yes |
 | [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | Yes 
 | [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes | Yes |
-| [Brooks-Range](http://www.brooks-range.com) | Mountaineering dhelters, clothing, sleeping bags, tools | Yes | Yes |
+| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering dhelters, clothing, sleeping bags, tools | Yes | Yes |
 
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region once you're done.
 
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-
 | [camphammocks](http://www.camphammocks.com) |
 | [carbonlitetools](http://www.carbonlitetools.com) |
 | [cilogear](http://www.cilogear.com) |
