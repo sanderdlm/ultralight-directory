@@ -13,12 +13,19 @@ Compiled list of ultralight vendors and their wares
 | [Appalachian Hammock](http://www.appalachianhammock.com) | US | Hammocks, tarps, bug nets | No | ? |
 | [Appy Trails](http://www.appytrails.com) | US | Tarp tents | No | ? |
 | [Arrowhead Equipment](http://www.arrowhead-equipment.com) | US | Hammocks, tarps, synthetic quilts, bug nets, accessories, tenkara fishing | Yes | Yes |
+| [Bakpocket](http://www.bakpocket-paks.com) | US | Hammocks, backpacks, accessories | No | ? |
+| [Bare Boxer](http://www.bareboxer.com) | US | Bear canister | No | ? |
+| [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | US | Tents, tarps, net tents, accessories | ? | ? |
+| [Bearvault](http://www.bearvault.com) | US | Bear canisters | No | Yes |
 
 ### Europe
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | Yes | 
 | [a2-16](http://www.a2-16.com) | France | Ergonomic hiking/skiing poles | ? | ? |
+| [As Tucas](http://www.astucas.com/en) | Spain | Quilts, Bivy sacks & base layers | Yes | Yes |
+| [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import) | Yes | Yes |
+| [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | ? | 
 
 ### Asia
 | Website | Country | Products | International shipping | Active |
@@ -36,14 +43,6 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [astucas](http://www.astucas.com/en) |
-| [atkrace](http://www.atkrace.it/eng) |
-| [backpackinglight](http://www.backpackinglight.com) |
-| [bakpocket-paks](http://www.bakpocket-paks.com) |
-| [bareboxer](http://www.bareboxer.com) |
-| [bearbonesbikepacking](http://www.bearbonesbikepacking.co.uk) |
-| [bearpawwd](http://www.bearpawwd.com) |
-| [bearvault](http://www.bearvault.com) |
 | [bepreparedtosurvive](http://www.bepreparedtosurvive.com) |
 | [beyondclothing](http://www.beyondclothing.com) |
 | [bigskyinternational](http://www.bigskyinternational.com) |
