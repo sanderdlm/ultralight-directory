@@ -1,24 +1,27 @@
 # Ultralight-directory
 Compiled list of ultralight vendors and their wares
 
-## USA
-
+### United states
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | ? |
 | [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | US | Hammock/tarp modifications & accessories | ? | ? |
 | [40below](http://www.40below.com) | US | Mountaineering/alpine overboots | Yes | ? |
-| [Advanced Elements}(http://www.advancedelements.com) | US | Inflatable Kayaks | No | ? |
+| [Advanced Elements](http://www.advancedelements.com) | US | Inflatable Kayaks | No | ? |
 | [Alpacka Raft](http://www.alpackaraft.com) | US | Custom made packrafts | Yes | ? |
-| [Altra running](http://www.altrarunning.com) | (Trail) running shoes | US | Yes | Yes |
+| [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | Yes |
 
-## Europe
+### Europe
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | Yes | 
 | [a2-16](http://www.a2-16.com) | France | Ergonomic hiking/skiing poles | ? | ? |
 
-## To do
+### Asia
+| Website | Country | Products | International shipping | Active |
+| ------- | ------- | -------- | ---------------------- | ------ |
+| [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | ? |
+
+### To do
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [](http://www.annashammocks.com) |
