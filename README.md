@@ -1,4 +1,4 @@
-# Ultralight-directory
+# Ultralight directory
 Compiled list of ultralight vendors and their wares
 
 ### United states
@@ -31,7 +31,9 @@ Compiled list of ultralight vendors and their wares
 | [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | Yes |
 | [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | Yes |
 
-### To do
+## To do
+If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region once you're done.
+
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [x](http://www.astucas.com/en) |
