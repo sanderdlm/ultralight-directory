@@ -17,8 +17,16 @@ Compiled list of ultralight vendors and their wares
 | [Bare Boxer](http://www.bareboxer.com) | US | Bear canister | No | ? |
 | [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | US | Tents, tarps, net tents, accessories | ? | ? |
 | [Bearvault](http://www.bearvault.com) | US | Bear canisters | No | Yes |
+| [Survival Resources](http://www.bepreparedtosurvive.com) | US | Shelters, cooking gear, first aid, knives, and more | Yes | Yes |
+| [Beyond Clothing](http://www.beyondclothing.com) | US | Outdoor clothing & insulation | Yes | Yes |
+| [Black Rock gear](http://www.blackrockgear.com) | US | Backpack, beanie, gloves, insulated hoods | Yes | ? |
+| [BoneFire Gear](http://www.bonefiregear.com) | US | Hammocks, backpack | No | ? |
+| [Borah Gear](http://www.borahgear.com) | Bivys, tarp, stuff sacks & down clothing | Yes | Yes |
+| [Brasslite](http://www.brasslite.com) | US | Alcohol stoves | Yes | ? |
+| [Bushbuddy](http://www.bushbuddy.ca) | US | Wood stove | Yes | Yes |
 
 ### Europe
+*Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | Yes | 
@@ -26,6 +34,12 @@ Compiled list of ultralight vendors and their wares
 | [As Tucas](http://www.astucas.com/en) | Spain | Quilts, Bivy sacks & base layers | Yes | Yes |
 | [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import) | Yes | Yes |
 | [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | ? | 
+| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Lightweight, thermal protection | Yes (via a distributor) | Yes |
+| [Blue Ice](http://www.blueice.com/en/home) | France | Mountaineering equipment, packs, ice axes, accessories | Yes | Yes |
+| [Brynje](http://www.brynje.no) | Norway | Clothing | ? | ? |
+| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Hard & softshells | Yes | Yes |
+| [Butt-in-a-sling gear](http://www.buttinasling.com) | US | Hammock & hammock gear | Yes | ? |
+| [Camp](http://www.camp-usa.com) | US | Climbing & mountaineering gear, ice axes, crampons, helmets, harnesses | Yes | Yes |
 
 ### Asia
 | Website | Country | Products | International shipping | Active |
@@ -36,30 +50,16 @@ Compiled list of ultralight vendors and their wares
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | Yes |
-| [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | Yes |
+| [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | Yes 
+| [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes | Yes |
+| [Brooks-Range](http://www.brooks-range.com) | Mountaineering dhelters, clothing, sleeping bags, tools | Yes | Yes |
 
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region once you're done.
 
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [bepreparedtosurvive](http://www.bepreparedtosurvive.com) |
-| [beyondclothing](http://www.beyondclothing.com) |
-| [bigskyinternational](http://www.bigskyinternational.com) |
-| [bigskyproducts](http://www.bigskyproducts.com) |
-| [blackrockgear](http://www.blackrockgear.com) |
-| [blizzardsurvival](http://www.blizzardsurvival.com) |
-| [blueice](http://www.blueice.com/en/home) |
-| [bonefiregear](http://www.bonefiregear.com) |
-| [borahgear](http://www.borahgear.com) |
-| [bozemanmountainworks](http://www.bozemanmountainworks.com) |
-| [brasslite](http://www.brasslite.com) |
-| [brooks-range](http://www.brooks-range.com) |
-| [brynje](http://www.brynje.no) |
-| [buffalosystems](http://www.buffalosystems.co.uk) |
-| [bushbuddy](http://www.bushbuddy.ca) |
-| [buttinasling](http://www.buttinasling.com) |
-| [camp-usa](http://www.camp-usa.com) |
+
 | [camphammocks](http://www.camphammocks.com) |
 | [carbonlitetools](http://www.carbonlitetools.com) |
 | [cilogear](http://www.cilogear.com) |
