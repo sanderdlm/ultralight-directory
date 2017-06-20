@@ -8,7 +8,7 @@ Compiled list of ultralight vendors and their wares
 | [40below](http://www.40below.com) | US | Mountaineering/alpine overboots | Yes | ? |
 | [Advanced Elements](http://www.advancedelements.com) | US | Inflatable Kayaks | No | ? |
 | [Alpacka Raft](http://www.alpackaraft.com) | US | Custom made packrafts | Yes | ? |
-| [Anna'ss hammocks](http://www.annashammocks.com) | US | Hammocks | ? | ? |
+| [Anna's hammocks](http://www.annashammocks.com) | US | Hammocks | ? | ? |
 | [AntiGravityGear](http://www.antigravitygear.com) | US | Website is broken | ? | ? |
 | [Appalachian Hammock](http://www.appalachianhammock.com) | US | Hammocks, tarps, bug nets | No | ? |
 | [Appy Trails](http://www.appytrails.com) | US | Tarp tents | No | ? |
@@ -24,6 +24,8 @@ Compiled list of ultralight vendors and their wares
 | [Borah Gear](http://www.borahgear.com) | US | Bivys, tarp, stuff sacks & down clothing | Yes | Yes |
 | [Brasslite](http://www.brasslite.com) | US | Alcohol stoves | Yes | ? |
 | [Bushbuddy](http://www.bushbuddy.ca) | US | Wood stove | Yes | Yes |
+| [Butt-in-a-sling gear](http://www.buttinasling.com) | US | Hammock & hammock gear | Yes | ? |
+| [Camp](http://www.camp-usa.com) | US | Climbing & mountaineering gear, ice axes, crampons, helmets, harnesses | Yes | Yes |
 
 ### Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
@@ -39,8 +41,6 @@ Compiled list of ultralight vendors and their wares
 | [Blue Ice](http://www.blueice.com/en/home) | France | Mountaineering equipment, packs, ice axes, accessories | Yes | Yes |
 | [Brynje](http://www.brynje.no) | Norway | Clothing | ? | ? |
 | [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Hard & softshells | Yes | Yes |
-| [Butt-in-a-sling gear](http://www.buttinasling.com) | US | Hammock & hammock gear | Yes | ? |
-| [Camp](http://www.camp-usa.com) | US | Climbing & mountaineering gear, ice axes, crampons, helmets, harnesses | Yes | Yes |
 
 ### Asia
 | Website | Country | Products | International shipping | Active |
