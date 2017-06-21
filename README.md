@@ -9,9 +9,9 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Appy Trails](http://www.appytrails.com) | No | - |
 | [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | ? | - |
 | [Survival Resources](http://www.bepreparedtosurvive.com) | Yes | - |
-| [Borah Gear](http://www.borahgear.com) | Yes | Cheap 5.5x9 tarp |
+| [Borah Gear](http://www.borahgear.com) :snail:| Yes | Cheap 5.5x9 tarp |
 | [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | No | - |
-| [Gossamer Gear](http://www.gossamergear.com) :fire: | Yes | - |
+| [Gossamer Gear](http://www.gossamergear.com)| Yes | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | - |
 | [LightHeart Gear](http://www.lightheartgear.com) | Yes | - |
 | [MLD](http://www.mountainlaureldesigns.com) | Yes | - |
@@ -92,6 +92,8 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | ? | - |
 | [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | Yes | - |
 | [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | Yes | - |
+| [Luke's Ultralite](http://www.lukesultralite.com) :snail:| No | - |
+| [Ursack](http://www.ursack.com) | Bear canister/bag | Yes | - |
 
 ## Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
@@ -201,7 +203,6 @@ You can move them up to their respective region/type once you're done.
 | [x](http://www.litetrail.com) |
 | [x](http://www.littlbug.com) |
 | [x](http://www.lorpennorthamerica.com) |
-| [lukesultralite](http://www.lukesultralite.com) |
 | [x](http://www.luminaid.com) |
 | [x](http://www.luxeoutdoor.com) |
 | [x](http://www.luxurylite.com) |
