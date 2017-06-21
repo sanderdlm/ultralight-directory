@@ -6,11 +6,11 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Shelters
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
-| [Appy Trails](http://www.appytrails.com) | :heavy_multiplication_x: | - |
+| [Appy Trails](http://www.appytrails.com) | :x: | - |
 | [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | ? | - |
 | [Survival Resources](http://www.bepreparedtosurvive.com) | :heavy_check_mark: | - |
-| [Borah Gear](http://www.borahgear.com) :lock:| :heavy_check_mark: | Cheap 5.5x9 tarp |
-| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | :heavy_multiplication_x: | - |
+| [Borah Gear](http://www.borahgear.com) :snail:| :heavy_check_mark: | Cheap 5.5x9 tarp |
+| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | :x: | - |
 | [Gossamer Gear](http://www.gossamergear.com)| :heavy_check_mark: | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | :heavy_check_mark: | - |
 | [LightHeart Gear](http://www.lightheartgear.com) | :heavy_check_mark: | - |
@@ -25,11 +25,11 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | ------- | ---------------------- | ----- |
 | [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | ? | - |
 | [Anna's hammocks](http://www.annashammocks.com) | ? | - |
-| [Appalachian Hammock](http://www.appalachianhammock.com) | :heavy_multiplication_x: | - |
+| [Appalachian Hammock](http://www.appalachianhammock.com) | :x: | - |
 | [Arrowhead Equipment](http://www.arrowhead-equipment.com) | :heavy_check_mark: | - |
-| [Bakpocket](http://www.bakpocket-paks.com) | :heavy_multiplication_x: | - |
+| [Bakpocket](http://www.bakpocket-paks.com) | :x: | - |
 | [Bearded Hanger](https://beardedhanger.com/) | :heavy_check_mark: | - |
-| [BoneFire Gear](http://www.bonefiregear.com) | :heavy_multiplication_x: | - |
+| [BoneFire Gear](http://www.bonefiregear.com) | :x: | - |
 | [Butt-in-a-sling gear](http://www.buttinasling.com) | :heavy_check_mark: | - |
 | [Dream Hammock](http://www.dream-hammock.com) | :heavy_check_mark: | - |
 | [Dutchwaregear](http://www.dutchwaregear.com) | :heavy_check_mark: | - |
@@ -40,7 +40,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
 | [Appalachian Ultralight](http://www.appalachianultralight.com/)| :heavy_check_mark: | - |
-| [Cilogear](http://www.cilogear.com) | :heavy_multiplication_x: | - |
+| [Cilogear](http://www.cilogear.com) | :x: | - |
 | [Elemental Horizons](http://www.elementalhorizons.com) | :heavy_check_mark: | - |
 | [Equinox](http://www.equinoxltd.com) | :heavy_check_mark: | - |
 | [Cooke Custom Sewing](http://www.cookecustomsewing.com) | :heavy_check_mark: | - |
@@ -80,15 +80,15 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Other
 | Website | Products | International shipping | Notes |
 | ------- | -------- | ---------------------- | ----- |
-| [Advanced Elements](http://www.advancedelements.com) | Kayaks | :heavy_multiplication_x: | - |
+| [Advanced Elements](http://www.advancedelements.com) | Kayaks | :x: | - |
 | [Alpacka Raft](http://www.alpackaraft.com) | Packrafts | :heavy_check_mark: | - |
-| [Bare Boxer](http://www.bareboxer.com) | Bear canister | :heavy_multiplication_x: | - |
+| [Bare Boxer](http://www.bareboxer.com) | Bear canister | :x: | - |
 | [Batchstovez](http://www.batchstovez.com/) | Alcohol stoves | :heavy_check_mark: | - |
-| [Bearvault](http://www.bearvault.com) | Bear canisters | :heavy_multiplication_x: | - |
+| [Bearvault](http://www.bearvault.com) | Bear canisters | :x: | - |
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | ? | - |
 | [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | :heavy_check_mark: | - |
 | [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | :heavy_check_mark: | - |
-| [Luke's Ultralite](http://www.lukesultralite.com) :lock:| Various cuben/nylon bags, stuff sacks, etc.. | :heavy_multiplication_x: | - |
+| [Luke's Ultralite](http://www.lukesultralite.com) :snail:| Various cuben/nylon bags, stuff sacks, etc.. | :x: | - |
 | [Ursack](http://www.ursack.com) | Bear canister/bag | :heavy_check_mark: | - |
 
 
@@ -106,7 +106,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | :heavy_check_mark: |  - |
-| [DD Hammocks](http://www.ddhammocks.com) | UK | :heavy_multiplication_x: | - |
+| [DD Hammocks](http://www.ddhammocks.com) | UK | :x: | - |
 
 ### Packs
 | Website | Country |  International shipping | Notes |
@@ -158,7 +158,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | :heavy_check_mark: | - |
 | [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | :heavy_check_mark: | - |
 | [Eastern Mountain Sports](http://www.ems.com) | US | Basically every mainstream brand | :heavy_check_mark: | - |
-| [Exofficio](http://www.exofficio.com) | US | Underwear | :heavy_multiplication_x: | - |
+| [Exofficio](http://www.exofficio.com) | US | Underwear | :x: | - |
 | [Hilleberg](http://www.hilleberg.com) | Sweden | High quality tents & tarps | :heavy_check_mark: | - |
 | [Big Agnes](http://www.bigagnes.com/) | US | Lightweight, quality tents | :heavy_check_mark: | - |
 | [NEMO](http://www.nemoequipment.com) | US | Tents | :heavy_check_mark: | A bit on the heavy side, but quality |
