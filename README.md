@@ -105,7 +105,7 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | Website | Country |  International shipping | Rating | Notes |
 | ------- | ------- |  ---------------------- | ------ | ----- |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Yes | A |  - |
-| [DD Hammocks](http://www.ddhammocks.com) | UK | Hammocks & Tarps | No | - | - |
+| [DD Hammocks](http://www.ddhammocks.com) | UK | No | - | - |
 
 ### Backpacks
 | Website | Country |  International shipping | Rating | Notes |
