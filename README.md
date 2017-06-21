@@ -92,8 +92,10 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | ? | - |
 | [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | Yes | - |
 | [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | Yes | - |
-| [Luke's Ultralite](http://www.lukesultralite.com) :snail:| No | - |
+| [Luke's Ultralite](http://www.lukesultralite.com) :snail:| Various cuben/nylon bags, stuff sacks, etc.. | No | - |
 | [Ursack](http://www.ursack.com) | Bear canister/bag | Yes | - |
+
+***
 
 ## Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
