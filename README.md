@@ -1,34 +1,26 @@
 # Ultralight directory
 Compiled list of ultralight vendors, organized per region and gear type, with basic information and a quality rating
 
-## Ranking system
-
-* -: Unknown
-* C: Multiple issues with the gear or the vendor, avoid.
-* B: Decent gear but has an issue (list the issue)
-* A: Excellent gear, no issues
-* S: Superb gear and popular brand. Flavor of the month on r/ul ¯\\_(ツ)_/¯
-
 ## United states
 
 ### Shelters
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [Appy Trails](http://www.appytrails.com) | No | - | - |
 | [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | ? | - | - |
 | [Survival Resources](http://www.bepreparedtosurvive.com) | Yes | - | - |
-| [Borah Gear](http://www.borahgear.com) | Yes | S | - |
+| [Borah Gear](http://www.borahgear.com) | Yes | S | Cheap 5.5x9 tarp |
 | [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | No | - | - |
 | [Gossamer Gear](http://www.gossamergear.com) | Yes | S | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | S | - |
 | [MLD](http://www.mountainlaureldesigns.com) | Yes | S | - |
 | [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | S | - |
 | [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | S | - |
-| [Zpacks](http://www.zpacks.co )| Yes | S | - |
+| [Zpacks](http://www.zpacks.co )| Yes | S | Pricy, but high quality CF gear |
 
 ### Hammocks
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | ? | - | - |
 | [Anna's hammocks](http://www.annashammocks.com) | ? | - | - |
 | [Appalachian Hammock](http://www.appalachianhammock.com) | No | - | - |
@@ -41,8 +33,8 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | S | - |
 
 ### Backpacks
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [Appalachian Ultralight](http://www.appalachianultralight.com/)| Yes | S | - |
 | [Cilogear](http://www.cilogear.com) | No | - | - |
 | [Elemental Horizons](http://www.elementalhorizons.com) | Yes | - | - |
@@ -50,44 +42,44 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Cooke Custom Sewing](http://www.cookecustomsewing.com) | Yes | - | - |
 | [Granite Gear](http://www.granitegear.com) |
 | [Gossamer Gear](http://www.gossamergear.com) | Yes | S | - |
-| [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | S | - |
+| [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | S | Pricy, but high quality CF gear |
 | [MLD](http://www.mountainlaureldesigns.com) | Yes | S | - |
 | [Pa'lante packs](http://www.palantepacks.com/) | Yes | S | - |
-| [Superior Wilderness Designs](http://www.swdbackpacks.com/) | Yes | S | - |
+| [Superior Wilderness Designs](http://www.swdbackpacks.com/) | Yes | S | Does custom work |
 | [ULA equipment](http://www.ula-equipment.com) | Yes | S | - |
 | [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | S | - |
-| [Zimmerbuilt](http://www.zimmerbuilt.com) | Yes | S | - |
+| [Zimmerbuilt](http://www.zimmerbuilt.com) | Yes | S | Does custom work |
 | [Zpacks](http://www.zpacks.co )| Yes | S | - |
 
 ### Sleeping bags/quilts
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [Enlightened Equipment](http://www.enlightenedequipment.com) | Yes | S | - |
 | [Feathered Friends](http://www.featheredfriends.com) | Yes | S | - |
 | [Katabatic Gear](http://www.katabaticgear.com) | Yes | S | - |
 | [Nunatak Equipment](http://www.nunatakusa.com) | Yes | S | - |
 
 ### Clothing
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [Beyond Clothing](http://www.beyondclothing.com) | Yes | - | - |
 | [Black Rock gear](http://www.blackrockgear.com) | Yes | - | - |
 
 ### Mountaineering
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [40below](http://www.40below.com) | Yes | - | - |
 | [Camp](http://www.camp-usa.com) | Yes | S | - |
 
 ### Kayaks/packrafts
-| Website | International shipping | Rating | Notes |
-| ------- | ---------------------- | ------ | ----- |
+| Website | International shipping | Notes |
+| ------- | ---------------------- | ----- |
 | [Advanced Elements](http://www.advancedelements.com) | No | - | - |
 | [Alpacka Raft](http://www.alpackaraft.com) | Yes | - | - |
 
 ### Other
-| Website | Products | International shipping | Rating | Notes |
-| ------- | -------- | ---------------------- | ------ | ----- |
+| Website | Products | International shipping | Notes |
+| ------- | -------- | ---------------------- | ----- |
 | [Bare Boxer](http://www.bareboxer.com) | Bear canister | No | - | - |
 | [Bearvault](http://www.bearvault.com) | Bear canisters | No | S | - |
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | - | ? | - |
@@ -98,53 +90,53 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
 
 ### Shelters
-| Website | Country | International shipping | Rating | Notes |
-| ------- | ------- | ---------------------- | ------ | ----- |
+| Website | Country | International shipping | Notes |
+| ------- | ------- | ---------------------- | ----- |
 
 ### Hammocks
-| Website | Country |  International shipping | Rating | Notes |
-| ------- | ------- |  ---------------------- | ------ | ----- |
+| Website | Country |  International shipping | Notes |
+| ------- | ------- |  ---------------------- | ----- |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Yes | A |  - |
 | [DD Hammocks](http://www.ddhammocks.com) | UK | No | - | - |
 
 ### Backpacks
-| Website | Country |  International shipping | Rating | Notes |
-| ------- | ------- |  ---------------------- | ------ | ----- |
+| Website | Country |  International shipping | Notes |
+| ------- | ------- |  ---------------------- | ----- |
 
 ### Sleeping bags/quilts
-| Website | Country |  International shipping | Rating | Notes |
-| ------- | ------- |  ---------------------- | ------ | ----- |
+| Website | Country |  International shipping | Notes |
+| ------- | ------- |  ---------------------- | ----- |
 | [As Tucas](http://www.astucas.com/en) | Spain | Yes | A | - |
 | [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Yes | S | - |
 
 ### Clothing
-| Website | Country |  International shipping | Rating | Notes |
-| ------- | ------- |  ---------------------- | ------ | ----- |
+| Website | Country |  International shipping | Notes |
+| ------- | ------- |  ---------------------- | ----- |
 | [As Tucas](http://www.astucas.com/en) | Spain | Yes | A | - |
 | [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Yes (via a distributor) | - | - |
 | [Brynje](http://www.brynje.no) | Norway | ? | - | - |
 | [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Yes | - | - |
 
 ### Mountaineering
-| Website | Country |  International shipping | Rating | Notes |
-| ------- | ------- |  ---------------------- | ------ | ----- |
+| Website | Country |  International shipping | Notes |
+| ------- | ------- |  ---------------------- | ----- |
 | [Blue Ice](http://www.blueice.com/en/home) | France | Yes | - | - |
 | [E-Climb](http://www.e-climb.com/en) | Spain | Yes | - | - |
 
 ### Kayaks/packrafts
-| Website | Country |  International shipping | Rating | Notes |
-| ------- | ------- |  ---------------------- | ------ | ----- |
+| Website | Country |  International shipping | Notes |
+| ------- | ------- |  ---------------------- | ----- |
 
 ### Other
-| Website | Country |  Products | International shipping | Rating | Notes |
-| ------- | ------- |  -------- | ---------------------- | ------ | ----- |
+| Website | Country |  Products | International shipping | Notes |
+| ------- | ------- |  -------- | ---------------------- | ----- |
 | [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import - has a ton of stuff) | Yes | A | - |
 | [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | - | - |
 
 ## Asia
 
 | Website | Country | Products | International shipping | Active | Notes |
-| ------- | ------- | -------- | ---------------------- | ------ | ----- |
+| ------- | ------- | -------- | ---------------------- | ----- |
 | [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - | - |
 | [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | Yes | S | - |
 | [Locus Gear](http://www.locusgear.com) | China | SHelters & trekking poles | Yes | S |
@@ -169,8 +161,8 @@ If you want to help, fork the repo and start filling out these to-do records. Ju
 
 You can move them up to their respective region/type once you're done. 
 
-| Website | Country | Products | International shipping | Rating | Notes |
-| ------- | ------- | -------- | ---------------------- | ------ | ----- |
+| Website | Country | Products | International shipping | Notes |
+| ------- | ------- | -------- | ---------------------- | ----- |
 | [flatcatgear](http://www.flatcatgear.com) |
 | [flyweightdesigns](http://www.flyweightdesigns.com) |
 | [fozzils](http://www.fozzils.com) |
