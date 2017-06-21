@@ -114,21 +114,22 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 ### Sleeping bags/quilts
 | Website | Country |  International shipping | Rating | Notes |
 | ------- | ------- |  ---------------------- | ------ | ----- |
-| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Down sleeping bags, quilts & clothing | Yes | S | - |
+| [As Tucas](http://www.astucas.com/en) | Spain | Yes | A | - |
+| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Yes | S | - |
 
 ### Clothing
 | Website | Country |  International shipping | Rating | Notes |
 | ------- | ------- |  ---------------------- | ------ | ----- |
-| [As Tucas](http://www.astucas.com/en) | Spain | Quilts, Bivy sacks & base layers | Yes | A | - |
-| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Lightweight, thermal protection | Yes (via a distributor) | - | - |
-| [Brynje](http://www.brynje.no) | Norway | Clothing | ? | - | - |
-| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Hard & softshells | Yes | - | - |
+| [As Tucas](http://www.astucas.com/en) | Spain | Yes | A | - |
+| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Yes (via a distributor) | - | - |
+| [Brynje](http://www.brynje.no) | Norway | ? | - | - |
+| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Yes | - | - |
 
 ### Mountaineering
 | Website | Country |  International shipping | Rating | Notes |
 | ------- | ------- |  ---------------------- | ------ | ----- |
-| [Blue Ice](http://www.blueice.com/en/home) | France | Mountaineering equipment, packs, ice axes, accessories | Yes | - | - |
-| [E-Climb](http://www.e-climb.com/en) | Spain | Ice axes | Yes | - | - |
+| [Blue Ice](http://www.blueice.com/en/home) | France | Yes | - | - |
+| [E-Climb](http://www.e-climb.com/en) | Spain | Yes | - | - |
 
 ### Kayaks/packrafts
 | Website | Country |  International shipping | Rating | Notes |
