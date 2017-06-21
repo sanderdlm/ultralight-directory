@@ -77,15 +77,11 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [40below](http://www.40below.com) | Yes | - |
 | [Camp](http://www.camp-usa.com) | Yes | - |
 
-### Kayaks/packrafts
-| Website | International shipping | Notes |
-| ------- | ---------------------- | ----- |
-| [Advanced Elements](http://www.advancedelements.com) | No | - |
-| [Alpacka Raft](http://www.alpackaraft.com) | Yes | - |
-
 ### Other
 | Website | Products | International shipping | Notes |
 | ------- | -------- | ---------------------- | ----- |
+| [Advanced Elements](http://www.advancedelements.com) | Kayaks | No | - |
+| [Alpacka Raft](http://www.alpackaraft.com) | Packrafts | Yes | - |
 | [Bare Boxer](http://www.bareboxer.com) | Bear canister | No | - |
 | [Batchstovez](http://www.batchstovez.com/) | Alcohol stoves | Yes | - |
 | [Bearvault](http://www.bearvault.com) | Bear canisters | No | - |
@@ -94,6 +90,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | Yes | - |
 | [Luke's Ultralite](http://www.lukesultralite.com) :snail:| Various cuben/nylon bags, stuff sacks, etc.. | No | - |
 | [Ursack](http://www.ursack.com) | Bear canister/bag | Yes | - |
+
 
 ***
 
@@ -135,10 +132,6 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | ------- | ------- |  ---------------------- | ----- |
 | [Blue Ice](http://www.blueice.com/en/home) | France | Yes | - |
 | [E-Climb](http://www.e-climb.com/en) | Spain | Yes | - |
-
-### Kayaks/packrafts
-| Website | Country |  International shipping | Notes |
-| ------- | ------- |  ---------------------- | ----- |
 
 ### Other
 | Website | Country |  Products | International shipping | Notes |
