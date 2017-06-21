@@ -8,76 +8,76 @@ Compiled list of ultralight vendors and their wares, with basic information visi
 3. Build a complete list, per region, of trusted cottage ultralight vendors.
 
 ### United states
-| Website | Country | Products | International shipping | Active |
+| Website | Country | Products | International shipping | Rating |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | US | Hammock/tarp modifications & accessories | ? | ? |
-| [40below](http://www.40below.com) | US | Mountaineering/alpine overboots | Yes | ? |
-| [Advanced Elements](http://www.advancedelements.com) | US | Inflatable Kayaks | No | ? |
-| [Alpacka Raft](http://www.alpackaraft.com) | US | Custom made packrafts | Yes | ? |
-| [Anna's hammocks](http://www.annashammocks.com) | US | Hammocks | ? | ? |
-| [Appalachian Hammock](http://www.appalachianhammock.com) | US | Hammocks, tarps, bug nets | No | ? |
-| [Appy Trails](http://www.appytrails.com) | US | Tarp tents | No | ? |
-| [Arrowhead Equipment](http://www.arrowhead-equipment.com) | US | Hammocks, tarps, synthetic quilts, bug nets, accessories, tenkara fishing | Yes | Yes |
-| [Bakpocket](http://www.bakpocket-paks.com) | US | Hammocks, backpacks, accessories | No | ? |
-| [Bare Boxer](http://www.bareboxer.com) | US | Bear canister | No | ? |
-| [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | US | Tents, tarps, net tents, accessories | ? | ? |
-| [Bearvault](http://www.bearvault.com) | US | Bear canisters | No | Yes |
-| [Survival Resources](http://www.bepreparedtosurvive.com) | US | Shelters, cooking gear, first aid, knives, and more | Yes | Yes |
-| [Beyond Clothing](http://www.beyondclothing.com) | US | Outdoor clothing & insulation | Yes | Yes |
-| [Black Rock gear](http://www.blackrockgear.com) | US | Backpack, beanie, gloves, insulated hoods | Yes | ? |
-| [BoneFire Gear](http://www.bonefiregear.com) | US | Hammocks, backpack | No | ? |
-| [Borah Gear](http://www.borahgear.com) | US | Bivys, tarp, stuff sacks & down clothing | Yes | Yes |
-| [Brasslite](http://www.brasslite.com) | US | Alcohol stoves | Yes | ? |
-| [Bushbuddy](http://www.bushbuddy.ca) | US | Wood stove | Yes | Yes |
-| [Butt-in-a-sling gear](http://www.buttinasling.com) | US | Hammock & hammock gear | Yes | ? |
-| [Camp](http://www.camp-usa.com) | US | Lightweight ice axes, crampons | Yes | Yes |
-| [Cilogear](http://www.cilogear.com) | US | Custom backpacks | No | ? |
-| [Cooke Custom Sewing](http://www.cookecustomsewing.com) | US | Backpacks, tarps & lean shelters | Yes | Yes |
-| [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | US | Gaiters (with cool patterns) | Yes | Yes |
-| [Dream Hammock](http://www.dream-hammock.com) | US | Hammocks | Yes | Yes |
-| [Dutchwaregear](http://www.dutchwaregear.com) | US | Hammocks, tarps & accessories | Yes | Yes |
-| [Elemental Horizons](http://www.elementalhorizons.com) | US | Backpacks | Yes | Yes |
-| [Enlightened Equipment](http://www.enlightenedequipment.com) | US | Down quilts | Yes | Yes |
-| [Equinox](http://www.equinoxltd.com) | US | Backpacks, shelters, sleeping bags & much more | Yes | Yes |
-| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | US | Tarps, backpack, liners | No | Yes |
-| [Exofficio](http://www.exofficio.com) | US | Underwear | No | Yes |
+| [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | US | Hammock/tarp modifications & accessories | ? | - |
+| [40below](http://www.40below.com) | US | Mountaineering/alpine overboots | Yes | - |
+| [Advanced Elements](http://www.advancedelements.com) | US | Inflatable Kayaks | No | - |
+| [Alpacka Raft](http://www.alpackaraft.com) | US | Custom made packrafts | Yes | - |
+| [Anna's hammocks](http://www.annashammocks.com) | US | Hammocks | ? | - |
+| [Appalachian Hammock](http://www.appalachianhammock.com) | US | Hammocks, tarps, bug nets | No | - |
+| [Appy Trails](http://www.appytrails.com) | US | Tarp tents | No | - |
+| [Arrowhead Equipment](http://www.arrowhead-equipment.com) | US | Hammocks, tarps, synthetic quilts, bug nets, accessories, tenkara fishing | Yes | B |
+| [Bakpocket](http://www.bakpocket-paks.com) | US | Hammocks, backpacks, accessories | No | - |
+| [Bare Boxer](http://www.bareboxer.com) | US | Bear canister | No | - |
+| [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | US | Tents, tarps, net tents, accessories | ? | - |
+| [Bearvault](http://www.bearvault.com) | US | Bear canisters | No | S |
+| [Survival Resources](http://www.bepreparedtosurvive.com) | US | Shelters, cooking gear, first aid, knives, and more | Yes | - |
+| [Beyond Clothing](http://www.beyondclothing.com) | US | Outdoor clothing & insulation | Yes | - |
+| [Black Rock gear](http://www.blackrockgear.com) | US | Backpack, beanie, gloves, insulated hoods | Yes | - |
+| [BoneFire Gear](http://www.bonefiregear.com) | US | Hammocks, backpack | No | - |
+| [Borah Gear](http://www.borahgear.com) | US | Bivys, tarp, stuff sacks & down clothing | Yes | S |
+| [Brasslite](http://www.brasslite.com) | US | Alcohol stoves | - | ? |
+| [Bushbuddy](http://www.bushbuddy.ca) | US | Wood stove | Yes | - |
+| [Butt-in-a-sling gear](http://www.buttinasling.com) | US | Hammock & hammock gear | Yes | - |
+| [Camp](http://www.camp-usa.com) | US | Lightweight ice axes, crampons | Yes | S |
+| [Cilogear](http://www.cilogear.com) | US | Custom backpacks | No | - |
+| [Cooke Custom Sewing](http://www.cookecustomsewing.com) | US | Backpacks, tarps & lean shelters | Yes | - |
+| [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | US | Gaiters (with cool patterns) | Yes | S |
+| [Dream Hammock](http://www.dream-hammock.com) | US | Hammocks | Yes | - |
+| [Dutchwaregear](http://www.dutchwaregear.com) | US | Hammocks, tarps & accessories | Yes | A |
+| [Elemental Horizons](http://www.elementalhorizons.com) | US | Backpacks | Yes | - |
+| [Enlightened Equipment](http://www.enlightenedequipment.com) | US | Down quilts | Yes | S |
+| [Equinox](http://www.equinoxltd.com) | US | Backpacks, shelters, sleeping bags & much more | Yes | - |
+| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | US | Tarps, backpack, liners | No | - |
+| [Exofficio](http://www.exofficio.com) | US | Underwear | No | A |
 
 ### Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
 
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | Yes | 
-| [As Tucas](http://www.astucas.com/en) | Spain | Quilts, Bivy sacks & base layers | Yes | Yes |
-| [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import) | Yes | Yes |
-| [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | ? | 
-| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Lightweight, thermal protection | Yes (via a distributor) | Yes |
-| [Blue Ice](http://www.blueice.com/en/home) | France | Mountaineering equipment, packs, ice axes, accessories | Yes | Yes |
-| [Brynje](http://www.brynje.no) | Norway | Clothing | ? | ? |
-| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Hard & softshells | Yes | Yes |
-| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Down sleeping bags, quilts & clothing | Yes | Yes |
-| [DD Hammocks](http://www.ddhammocks.com) | UK | Hammocks & Tarps | No | Yes |
-| [E-Climb](http://www.e-climb.com/en) | Spain | Ice axes | Yes | Yes |
+| [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | A | 
+| [As Tucas](http://www.astucas.com/en) | Spain | Quilts, Bivy sacks & base layers | Yes | A |
+| [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import) | Yes | A |
+| [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | - | 
+| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Lightweight, thermal protection | Yes (via a distributor) | - |
+| [Blue Ice](http://www.blueice.com/en/home) | France | Mountaineering equipment, packs, ice axes, accessories | Yes | - |
+| [Brynje](http://www.brynje.no) | Norway | Clothing | ? | - |
+| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Hard & softshells | Yes | - |
+| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Down sleeping bags, quilts & clothing | Yes | S |
+| [DD Hammocks](http://www.ddhammocks.com) | UK | Hammocks & Tarps | No | - |
+| [E-Climb](http://www.e-climb.com/en) | Spain | Ice axes | Yes | - |
 
 ### Asia
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | ? |
+| [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - |
 
 ### Non-cottage brands
-| Website | Country | Products | International shipping | Active |
-| ------- | ------- | -------- | ---------------------- | ------ |
-| [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | Yes |
-| [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | Yes 
-| [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes | Yes |
-| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | Yes | Yes |
-| [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | Yes | Yes |
-| [Eastern Mountain Sports](http://www.ems.com) | US | Basically every mainstream brand | Yes | Yes |
+| Website | Country | Products | International shipping |
+| ------- | ------- | -------- | ---------------------- |
+| [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes |
+| [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes |
+| [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes |
+| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | Yes |
+| [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | Yes |
+| [Eastern Mountain Sports](http://www.ems.com) | US | Basically every mainstream brand | Yes |
 
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region once you're done.
 
-| Website | Country | Products | International shipping | Active |
+| Website | Country | Products | International shipping | Rating |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [x](http://www.featheredfriends.com) |
 | [x](http://www.fibraplex.com) |
