@@ -1,5 +1,10 @@
 # Ultralight directory
-Compiled list of ultralight vendors and their wares
+Compiled list of ultralight vendors and their wares, with basic information visible on-the-fly and a quality rating
+
+##Progress
+1. Go over each url and visit the website. Gather basic information and list it per region
+2. Figure out a system to give a quality rating to a vendor (only for cottage brands). Start with the popular ones.
+3. Build a complete list, per region, of trusted cottage ultralight vendors.
 
 ### United states
 | Website | Country | Products | International shipping | Active |
@@ -9,7 +14,6 @@ Compiled list of ultralight vendors and their wares
 | [Advanced Elements](http://www.advancedelements.com) | US | Inflatable Kayaks | No | ? |
 | [Alpacka Raft](http://www.alpackaraft.com) | US | Custom made packrafts | Yes | ? |
 | [Anna's hammocks](http://www.annashammocks.com) | US | Hammocks | ? | ? |
-| [AntiGravityGear](http://www.antigravitygear.com) | US | Website is broken | ? | ? |
 | [Appalachian Hammock](http://www.appalachianhammock.com) | US | Hammocks, tarps, bug nets | No | ? |
 | [Appy Trails](http://www.appytrails.com) | US | Tarp tents | No | ? |
 | [Arrowhead Equipment](http://www.arrowhead-equipment.com) | US | Hammocks, tarps, synthetic quilts, bug nets, accessories, tenkara fishing | Yes | Yes |
@@ -25,7 +29,17 @@ Compiled list of ultralight vendors and their wares
 | [Brasslite](http://www.brasslite.com) | US | Alcohol stoves | Yes | ? |
 | [Bushbuddy](http://www.bushbuddy.ca) | US | Wood stove | Yes | Yes |
 | [Butt-in-a-sling gear](http://www.buttinasling.com) | US | Hammock & hammock gear | Yes | ? |
-| [Camp](http://www.camp-usa.com) | US | Climbing & mountaineering gear, ice axes, crampons, helmets, harnesses | Yes | Yes |
+| [Camp](http://www.camp-usa.com) | US | Lightweight ice axes, crampons | Yes | Yes |
+| [Cilogear](http://www.cilogear.com) | US | Custom backpacks | No | ? |
+| [Cooke Custom Sewing](http://www.cookecustomsewing.com) | US | Backpacks, tarps & lean shelters | Yes | Yes |
+| [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | US | Gaiters (with cool patterns) | Yes | Yes |
+| [Dream Hammock](http://www.dream-hammock.com) | US | Hammocks | Yes | Yes |
+| [Dutchwaregear](http://www.dutchwaregear.com) | US | Hammocks, tarps & accessories | Yes | Yes |
+| [Elemental Horizons](http://www.elementalhorizons.com) | US | Backpacks | Yes | Yes |
+| [Enlightened Equipment](http://www.enlightenedequipment.com) | Down quilts | Yes | Yes |
+| [Equinox](http://www.equinoxltd.com) | US | Backpacks, shelters, sleeping bags & much more | Yes | Yes |
+| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | US | Tarps, backpack, liners | No | Yes |
+| [Exofficio](http://www.exofficio.com) | US | Underwear | No | Yes |
 
 ### Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
@@ -33,7 +47,6 @@ Compiled list of ultralight vendors and their wares
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Hammock tents and super-lightweight hammocks | Yes | Yes | 
-| [a2-16](http://www.a2-16.com) | France | Ergonomic hiking/skiing poles | ? | ? |
 | [As Tucas](http://www.astucas.com/en) | Spain | Quilts, Bivy sacks & base layers | Yes | Yes |
 | [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import) | Yes | Yes |
 | [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | ? | 
@@ -41,6 +54,9 @@ Compiled list of ultralight vendors and their wares
 | [Blue Ice](http://www.blueice.com/en/home) | France | Mountaineering equipment, packs, ice axes, accessories | Yes | Yes |
 | [Brynje](http://www.brynje.no) | Norway | Clothing | ? | ? |
 | [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Hard & softshells | Yes | Yes |
+| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Down sleeping bags, quilts & clothing | Yes | Yes |
+| [DD Hammocks](http://www.ddhammocks.com) | UK | Hammocks & Tarps | No | Yes |
+| [E-Climb](http://www.e-climb.com/en) | Spain | Ice axes | Yes | Yes |
 
 ### Asia
 | Website | Country | Products | International shipping | Active |
@@ -53,47 +69,15 @@ Compiled list of ultralight vendors and their wares
 | [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | Yes |
 | [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | Yes 
 | [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes | Yes |
-| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering dhelters, clothing, sleeping bags, tools | Yes | Yes |
+| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | Yes | Yes |
+| [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | Yes | Yes |
+| [Eastern Mountain Sports](http://www.ems.com) | Basically every mainstream brand | Yes | Yes |
 
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region once you're done.
 
 | Website | Country | Products | International shipping | Active |
 | ------- | ------- | -------- | ---------------------- | ------ |
-| [camphammocks](http://www.camphammocks.com) |
-| [carbonlitetools](http://www.carbonlitetools.com) |
-| [cilogear](http://www.cilogear.com) |
-| [climbingtechnology](http://www.climbingtechnology.it) |
-| [coldcoldworldpacks](http://www.coldcoldworldpacks.com) |
-| [cookecustomsewing](http://www.cookecustomsewing.com) |
-| [countycomm](http://www.countycomm.com) |
-| [crescentmoonsnowshoes](http://www.crescentmoonsnowshoes.com) |
-| [crux](http://www.crux.uk.com/en) |
-| [cumulus](http://www.cumulus.pl/) |
-| [darkfingloves](http://www.darkfingloves.com) |
-| [ddhammocks](http://www.ddhammocks.com) |
-| [deneboutdoors](http://www.deneboutdoors.com) |
-| [dirtygirlgaiters](http://www.dirtygirlgaiters.com) |
-| [diygearsupply](http://www.diygearsupply.com) |
-| [downworks](http://www.downworks.com) |
-| [drbronner](http://www.drbronner.com) |
-| [dream-hammock](http://www.dream-hammock.com) |
-| [dutchwaregear](http://www.dutchwaregear.com) |
-| [e-climb](http://www.e-climb.com/en) |
-| [eaglesnestoutfittersinc](http://www.eaglesnestoutfittersinc.com) |
-| [elementalhorizons](http://www.elementalhorizons.com) |
-| [x](http://www.empirecanvasworks.com) |
-| [x](http://www.ems.com) |
-| [x](http://www.end2endtrailsupply.com) |
-| [x](http://www.enlightenedequipment.com) |
-| [x](http://www.equinoxltd.com) |
-| [x](http://www.etowahoutfittersultralightbackpackinggear.com) |
-| [x](http://www.etsy.com/ca/shop/GOLDGearLite) |
-| [x](http://www.evernewamerica.com/products.htm) |
-| [x](http://www.exofficio.com) |
-| [x](http://www.exotac.com) |
-| [x](http://www.fanaticfringe.com) |
-| [x](http://www.feathercraft.com) |
 | [x](http://www.featheredfriends.com) |
 | [x](http://www.fibraplex.com) |
 | [x](http://www.fibraplex.com/tentpoles.htm) |
