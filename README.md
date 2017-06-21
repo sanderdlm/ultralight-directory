@@ -1,5 +1,5 @@
 # Ultralight directory
-Compiled list of ultralight vendors and their wares, organized per region and gear type, with basic information visible on-the-fly and a quality rating
+Compiled list of ultralight vendors, organized per region and gear type, with basic information and a quality rating
 
 ## Ranking system
 
@@ -163,8 +163,11 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | [Big Agnes](http://www.bigagnes.com/) | US | Lightweight, quality tents | Yes | S | - |
 | [NEMO](http://www.nemoequipment.com) | US | Tents | Yes | S | A bit on the heavy side, but quality |
 | [Osprey](ospreypacks.com) | US & EU | Backpacks | Yes | S | - |
+
 ## To do
-If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region/type once you're done. 
+If you want to help, fork the repo and start filling out these to-do records. Just visit the site, find out what products they're selling, if they ship internationally, etc..
+
+You can move them up to their respective region/type once you're done. 
 
 | Website | Country | Products | International shipping | Rating | Notes |
 | ------- | ------- | -------- | ---------------------- | ------ | ----- |
