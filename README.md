@@ -1,7 +1,8 @@
 # Ultralight directory
 Compiled list of ultralight vendors and their wares, with basic information visible on-the-fly and a quality rating
 
-##Progress
+## Progress
+
 1. Go over each url and visit the website. Gather basic information and list it per region
 2. Figure out a system to give a quality rating to a vendor (only for cottage brands). Start with the popular ones.
 3. Build a complete list, per region, of trusted cottage ultralight vendors.
@@ -36,7 +37,7 @@ Compiled list of ultralight vendors and their wares, with basic information visi
 | [Dream Hammock](http://www.dream-hammock.com) | US | Hammocks | Yes | Yes |
 | [Dutchwaregear](http://www.dutchwaregear.com) | US | Hammocks, tarps & accessories | Yes | Yes |
 | [Elemental Horizons](http://www.elementalhorizons.com) | US | Backpacks | Yes | Yes |
-| [Enlightened Equipment](http://www.enlightenedequipment.com) | Down quilts | Yes | Yes |
+| [Enlightened Equipment](http://www.enlightenedequipment.com) | US | Down quilts | Yes | Yes |
 | [Equinox](http://www.equinoxltd.com) | US | Backpacks, shelters, sleeping bags & much more | Yes | Yes |
 | [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | US | Tarps, backpack, liners | No | Yes |
 | [Exofficio](http://www.exofficio.com) | US | Underwear | No | Yes |
@@ -71,7 +72,7 @@ Compiled list of ultralight vendors and their wares, with basic information visi
 | [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes | Yes |
 | [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | Yes | Yes |
 | [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | Yes | Yes |
-| [Eastern Mountain Sports](http://www.ems.com) | Basically every mainstream brand | Yes | Yes |
+| [Eastern Mountain Sports](http://www.ems.com) | US | Basically every mainstream brand | Yes | Yes |
 
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region once you're done.
