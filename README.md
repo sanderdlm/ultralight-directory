@@ -13,6 +13,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | No | - |
 | [Gossamer Gear](http://www.gossamergear.com) | Yes | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | - |
+| [LightHeart Gear](http://www.lightheartgear.com) | Yes | - |
 | [MLD](http://www.mountainlaureldesigns.com) | Yes | - |
 | [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | - |
 | [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | - |
@@ -92,6 +93,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Shelters
 | Website | Country | International shipping | Notes |
 | ------- | ------- | ---------------------- | ----- |
+| [terra-nova](http://www.terra-nova.co.uk) | Yes | - |
 
 ### Hammocks
 | Website | Country |  International shipping | Notes |
@@ -102,6 +104,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Backpacks
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
+| [Laufbursche](https://www.laufbursche-gear.de/) | Germany | Yes | - |
 
 ### Sleeping bags/quilts
 | Website | Country |  International shipping | Notes |
@@ -139,7 +142,9 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | ------- | ------- | -------- | ---------------------- | ----- |
 | [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - |
 | [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | Yes | - |
-| [Locus Gear](http://www.locusgear.com) | China | SHelters & trekking poles | Yes |
+| [Locus Gear](http://www.locusgear.com) | China | Shelters & trekking poles | Yes |
+| [Magicwand](http://www.magicwand.jp) | Japan | No idea | ? | Needs translation |
+| [Yamatomichi](http://www.yamatomichi.com) | China | ? | Needs translation |
 
 ## Non-cottage brands
 | Website | Country | Products | International shipping | Notes |
@@ -184,9 +189,7 @@ You can move them up to their respective region/type once you're done.
 | [x](http://www.kahtoola.com) |
 | [kammok](http://www.kammok.com) |
 | [klymit](http://www.klymit.com) |
-| [laufbursche](https://www.laufbursche-gear.de/) |
 | [x](http://www.lawsonequipment.com) |
-| [x](http://www.lightheartgear.com) |
 | [x](http://www.lightwave.uk.com) |
 | [x](http://www.limmercustomboot.com) |
 | [x](http://www.litetrail.com) |
@@ -200,7 +203,6 @@ You can move them up to their respective region/type once you're done.
 | [x](http://www.lwgear.com) |
 | [x](http://www.madtree.fi) |
 | [x](http://www.magdassi.com/#!stakes/c147h) |
-| [magicwand](http://www.magicwand.jp) |
 | [x](http://www.materialconcepts.com/store/categories/1300) |
 | [x](http://www.maverickgear.com.au) |
 | [x](http://www.mchalepacks.com) |
@@ -292,7 +294,6 @@ You can move them up to their respective region/type once you're done.
 | [tentpoletechnologies](http://www.tentpoletechnologies.com) |
 | [tentsile](http://www.tentsile.com) |
 | [tentsmiths](http://www.tentsmiths.com) |
-| [terra-nova](http://www.terra-nova.co.uk) |
 | [terrarosagear](http://www.terrarosagear.com/tarpshelters.htm) |
 | [tewaunderquilts](http://www.tewaunderquilts.webs.com) |
 | [theboilerwerks](http://www.theboilerwerks.com) |
