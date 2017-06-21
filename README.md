@@ -135,7 +135,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 
 ## Asia
 
-| Website | Country | Products | International shipping | Active | Notes |
+| Website | Country | Products | International shipping | Notes |
 | ------- | ------- | -------- | ---------------------- | ----- |
 | [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - |
 | [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | Yes | - |
