@@ -6,90 +6,90 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Shelters
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
-| [Appy Trails](http://www.appytrails.com) | No | - |
+| [Appy Trails](http://www.appytrails.com) | :heavy_multiplication_x: | - |
 | [Bear Paw Wilderness Designs](http://www.bearpawwd.com) | ? | - |
-| [Survival Resources](http://www.bepreparedtosurvive.com) | Yes | - |
-| [Borah Gear](http://www.borahgear.com) :snail:| Yes | Cheap 5.5x9 tarp |
-| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | No | - |
-| [Gossamer Gear](http://www.gossamergear.com)| Yes | - |
-| [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | - |
-| [LightHeart Gear](http://www.lightheartgear.com) | Yes | - |
-| [MLD](http://www.mountainlaureldesigns.com) | Yes | - |
-| [Simply Light Designs](http://www.simplylightdesigns.com) | Yes | - |
-| [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | - |
-| [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | - |
-| [Zpacks](http://www.zpacks.co )| Yes | Pricy, but high quality CF gear |
+| [Survival Resources](http://www.bepreparedtosurvive.com) | :heavy_check_mark: | - |
+| [Borah Gear](http://www.borahgear.com) :lock:| :heavy_check_mark: | Cheap 5.5x9 tarp |
+| [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | :heavy_multiplication_x: | - |
+| [Gossamer Gear](http://www.gossamergear.com)| :heavy_check_mark: | - |
+| [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | :heavy_check_mark: | - |
+| [LightHeart Gear](http://www.lightheartgear.com) | :heavy_check_mark: | - |
+| [MLD](http://www.mountainlaureldesigns.com) | :heavy_check_mark: | - |
+| [Simply Light Designs](http://www.simplylightdesigns.com) | :heavy_check_mark: | - |
+| [Six Moon Designs](http://www.sixmoondesigns.com) | :heavy_check_mark: | - |
+| [Yama Mountain Gear](http://www.yamamountaingear.com) | :heavy_check_mark: | - |
+| [Zpacks](http://www.zpacks.co )| :heavy_check_mark: | Pricy, but high quality CF gear |
 
 ### Hammocks & hammock gear
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
 | [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | ? | - |
 | [Anna's hammocks](http://www.annashammocks.com) | ? | - |
-| [Appalachian Hammock](http://www.appalachianhammock.com) | No | - |
-| [Arrowhead Equipment](http://www.arrowhead-equipment.com) | Yes | - |
-| [Bakpocket](http://www.bakpocket-paks.com) | No | - |
-| [Bearded Hanger](https://beardedhanger.com/) | Yes | - |
-| [BoneFire Gear](http://www.bonefiregear.com) | No | - |
-| [Butt-in-a-sling gear](http://www.buttinasling.com) | Yes | - |
-| [Dream Hammock](http://www.dream-hammock.com) | Yes | - |
-| [Dutchwaregear](http://www.dutchwaregear.com) | Yes | - |
-| [Simply Light Designs](http://www.simplylightdesigns.com) | Yes | - |
-| [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | - |
+| [Appalachian Hammock](http://www.appalachianhammock.com) | :heavy_multiplication_x: | - |
+| [Arrowhead Equipment](http://www.arrowhead-equipment.com) | :heavy_check_mark: | - |
+| [Bakpocket](http://www.bakpocket-paks.com) | :heavy_multiplication_x: | - |
+| [Bearded Hanger](https://beardedhanger.com/) | :heavy_check_mark: | - |
+| [BoneFire Gear](http://www.bonefiregear.com) | :heavy_multiplication_x: | - |
+| [Butt-in-a-sling gear](http://www.buttinasling.com) | :heavy_check_mark: | - |
+| [Dream Hammock](http://www.dream-hammock.com) | :heavy_check_mark: | - |
+| [Dutchwaregear](http://www.dutchwaregear.com) | :heavy_check_mark: | - |
+| [Simply Light Designs](http://www.simplylightdesigns.com) | :heavy_check_mark: | - |
+| [Six Moon Designs](http://www.sixmoondesigns.com) | :heavy_check_mark: | - |
 
 ### Packs
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
-| [Appalachian Ultralight](http://www.appalachianultralight.com/)| Yes | - |
-| [Cilogear](http://www.cilogear.com) | No | - |
-| [Elemental Horizons](http://www.elementalhorizons.com) | Yes | - |
-| [Equinox](http://www.equinoxltd.com) | Yes | - |
-| [Cooke Custom Sewing](http://www.cookecustomsewing.com) | Yes | - |
+| [Appalachian Ultralight](http://www.appalachianultralight.com/)| :heavy_check_mark: | - |
+| [Cilogear](http://www.cilogear.com) | :heavy_multiplication_x: | - |
+| [Elemental Horizons](http://www.elementalhorizons.com) | :heavy_check_mark: | - |
+| [Equinox](http://www.equinoxltd.com) | :heavy_check_mark: | - |
+| [Cooke Custom Sewing](http://www.cookecustomsewing.com) | :heavy_check_mark: | - |
 | [Granite Gear](http://www.granitegear.com) |
-| [Gossamer Gear](http://www.gossamergear.com) | Yes | - |
-| [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | Pricy, but high quality CF gear |
-| [MLD](http://www.mountainlaureldesigns.com) | Yes | - |
-| [Pa'lante packs](http://www.palantepacks.com/) | Yes | - |
-| [Superior Wilderness Designs](http://www.swdbackpacks.com/) | Yes | Does custom work |
-| [ULA equipment](http://www.ula-equipment.com) | Yes | - |
-| [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | - |
-| [Zimmerbuilt](http://www.zimmerbuilt.com) | Yes | Does custom work |
-| [Zpacks](http://www.zpacks.co )| Yes | - |
+| [Gossamer Gear](http://www.gossamergear.com) | :heavy_check_mark: | - |
+| [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | :heavy_check_mark: | Pricy, but high quality CF gear |
+| [MLD](http://www.mountainlaureldesigns.com) | :heavy_check_mark: | - |
+| [Pa'lante packs](http://www.palantepacks.com/) :rocket:| :heavy_check_mark: | - |
+| [Superior Wilderness Designs](http://www.swdbackpacks.com/) | :heavy_check_mark: | Does custom work |
+| [ULA equipment](http://www.ula-equipment.com) | :heavy_check_mark: | - |
+| [Yama Mountain Gear](http://www.yamamountaingear.com) | :heavy_check_mark: | - |
+| [Zimmerbuilt](http://www.zimmerbuilt.com) | :heavy_check_mark: | Does custom work |
+| [Zpacks](http://www.zpacks.co )| :heavy_check_mark: | - |
 
 ### Sleeping bags/quilts
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
-| [Enlightened Equipment](http://www.enlightenedequipment.com) | Yes | - |
-| [Feathered Friends](http://www.featheredfriends.com) | Yes | - |
-| [Katabatic Gear](http://www.katabaticgear.com) | Yes | - |
+| [Enlightened Equipment](http://www.enlightenedequipment.com) | :heavy_check_mark: | - |
+| [Feathered Friends](http://www.featheredfriends.com) | :heavy_check_mark: | - |
+| [Katabatic Gear](http://www.katabaticgear.com) | :heavy_check_mark: | - |
 | [Loco Libre Gear](http://www.locolibregear.com) | - | - |
-| [Nunatak Equipment](http://www.nunatakusa.com) | Yes | - |
-| [Simply Light Designs](http://www.simplylightdesigns.com) | Yes | - |
+| [Nunatak Equipment](http://www.nunatakusa.com) | :heavy_check_mark: | - |
+| [Simply Light Designs](http://www.simplylightdesigns.com) | :heavy_check_mark: | - |
 
 ### Clothing
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
-| [Beyond Clothing](http://www.beyondclothing.com) | Yes | - |
-| [Black Rock gear](http://www.blackrockgear.com) | Yes | - |
+| [Beyond Clothing](http://www.beyondclothing.com) | :heavy_check_mark: | - |
+| [Black Rock gear](http://www.blackrockgear.com) | :heavy_check_mark: | - |
 
 ### Mountaineering
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
-| [40below](http://www.40below.com) | Yes | - |
-| [Camp](http://www.camp-usa.com) | Yes | - |
+| [40below](http://www.40below.com) | :heavy_check_mark: | - |
+| [Camp](http://www.camp-usa.com) | :heavy_check_mark: | - |
 
 ### Other
 | Website | Products | International shipping | Notes |
 | ------- | -------- | ---------------------- | ----- |
-| [Advanced Elements](http://www.advancedelements.com) | Kayaks | No | - |
-| [Alpacka Raft](http://www.alpackaraft.com) | Packrafts | Yes | - |
-| [Bare Boxer](http://www.bareboxer.com) | Bear canister | No | - |
-| [Batchstovez](http://www.batchstovez.com/) | Alcohol stoves | Yes | - |
-| [Bearvault](http://www.bearvault.com) | Bear canisters | No | - |
+| [Advanced Elements](http://www.advancedelements.com) | Kayaks | :heavy_multiplication_x: | - |
+| [Alpacka Raft](http://www.alpackaraft.com) | Packrafts | :heavy_check_mark: | - |
+| [Bare Boxer](http://www.bareboxer.com) | Bear canister | :heavy_multiplication_x: | - |
+| [Batchstovez](http://www.batchstovez.com/) | Alcohol stoves | :heavy_check_mark: | - |
+| [Bearvault](http://www.bearvault.com) | Bear canisters | :heavy_multiplication_x: | - |
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | ? | - |
-| [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | Yes | - |
-| [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | Yes | - |
-| [Luke's Ultralite](http://www.lukesultralite.com) :snail:| Various cuben/nylon bags, stuff sacks, etc.. | No | - |
-| [Ursack](http://www.ursack.com) | Bear canister/bag | Yes | - |
+| [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | :heavy_check_mark: | - |
+| [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | :heavy_check_mark: | - |
+| [Luke's Ultralite](http://www.lukesultralite.com) :lock:| Various cuben/nylon bags, stuff sacks, etc.. | :heavy_multiplication_x: | - |
+| [Ursack](http://www.ursack.com) | Bear canister/bag | :heavy_check_mark: | - |
 
 
 ***
@@ -100,69 +100,69 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Shelters
 | Website | Country | International shipping | Notes |
 | ------- | ------- | ---------------------- | ----- |
-| [Terra Nova](http://www.terra-nova.co.uk) | Yes | - |
+| [Terra Nova](http://www.terra-nova.co.uk) | :heavy_check_mark: | - |
 
 ### Hammocks & hammock gear
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
-| [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Yes |  - |
-| [DD Hammocks](http://www.ddhammocks.com) | UK | No | - |
+| [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | :heavy_check_mark: |  - |
+| [DD Hammocks](http://www.ddhammocks.com) | UK | :heavy_multiplication_x: | - |
 
 ### Packs
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
-| [Laufbursche](https://www.laufbursche-gear.de/) | Germany | Yes | - |
+| [Laufbursche](https://www.laufbursche-gear.de/) | Germany | :heavy_check_mark: | - |
 
 ### Sleeping bags/quilts
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
-| [As Tucas](http://www.astucas.com/en) | Spain | Yes | - |
-| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Yes | - |
+| [As Tucas](http://www.astucas.com/en) | Spain | :heavy_check_mark: | - |
+| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | :heavy_check_mark: | - |
 
 ### Clothing
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
-| [As Tucas](http://www.astucas.com/en) | Spain | Yes | - |
-| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | Yes (via a distributor) | - |
+| [As Tucas](http://www.astucas.com/en) | Spain | :heavy_check_mark: | - |
+| [Blizzard Survival](http://www.blizzardsurvival.com) | UK | :heavy_check_mark: (via a distributor) | - |
 | [Brynje](http://www.brynje.no) | Norway | ? | - |
-| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | Yes | - |
+| [Buffalosystems](http://www.buffalosystems.co.uk) | UK | :heavy_check_mark: | - |
 
 ### Mountaineering
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
-| [Blue Ice](http://www.blueice.com/en/home) | France | Yes | - |
-| [E-Climb](http://www.e-climb.com/en) | Spain | Yes | - |
+| [Blue Ice](http://www.blueice.com/en/home) | France | :heavy_check_mark: | - |
+| [E-Climb](http://www.e-climb.com/en) | Spain | :heavy_check_mark: | - |
 
 ### Other
 | Website | Country |  Products | International shipping | Notes |
 | ------- | ------- |  -------- | ---------------------- | ----- |
-| [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import - has a ton of stuff) | Yes | - |
-| [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | - |
+| [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import - has a ton of stuff) | :heavy_check_mark: | - |
+| [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | :heavy_check_mark: | - |
 
 ## Asia
 
 | Website | Country | Products | International shipping | Notes |
 | ------- | ------- | -------- | ---------------------- | ----- |
-| [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - |
-| [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | Yes | - |
-| [Locus Gear](http://www.locusgear.com) | China | Shelters & trekking poles | Yes |
+| [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | :heavy_check_mark: | - |
+| [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | :heavy_check_mark: | - |
+| [Locus Gear](http://www.locusgear.com) | China | Shelters & trekking poles | :heavy_check_mark: |
 | [Magicwand](http://www.magicwand.jp) | Japan | ? | ? | Needs translation |
 | [Yamatomichi](http://www.yamatomichi.com) | China | ? | ? | Needs translation |
 
 ## Non-cottage brands
 | Website | Country | Products | International shipping | Notes |
 | ------- | ------- | -------- | ---------------------- | ----- |
-| [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | Yes | - |
-| [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | Yes | - |
-| [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | Yes | - |
-| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | Yes | - |
-| [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | Yes | - |
-| [Eastern Mountain Sports](http://www.ems.com) | US | Basically every mainstream brand | Yes | - |
-| [Exofficio](http://www.exofficio.com) | US | Underwear | No | - |
-| [Hilleberg](http://www.hilleberg.com) | Sweden | High quality tents & tarps | Yes | - |
-| [Big Agnes](http://www.bigagnes.com/) | US | Lightweight, quality tents | Yes | - |
-| [NEMO](http://www.nemoequipment.com) | US | Tents | Yes | A bit on the heavy side, but quality |
-| [Osprey](ospreypacks.com) | US & EU | Backpacks | Yes | - |
+| [Altra running](http://www.altrarunning.com) | US | (Trail) running shoes | :heavy_check_mark: | - |
+| [Archtekinc](http://archtekinc.com/archtek-products/toothpaste/) | US | Toothpaste tablets | :heavy_check_mark: | - |
+| [Big Sky International](http://www.bigskyinternational.com) | US | Shelters, accossories, pillows | :heavy_check_mark: | - |
+| [Brooks-Range](http://www.brooks-range.com) | US | Mountaineering shelters, clothing, sleeping bags, tools | :heavy_check_mark: | - |
+| [ENO Inc](http://www.eaglesnestoutfittersinc.com) | US | Hammocks & Tarps | :heavy_check_mark: | - |
+| [Eastern Mountain Sports](http://www.ems.com) | US | Basically every mainstream brand | :heavy_check_mark: | - |
+| [Exofficio](http://www.exofficio.com) | US | Underwear | :heavy_multiplication_x: | - |
+| [Hilleberg](http://www.hilleberg.com) | Sweden | High quality tents & tarps | :heavy_check_mark: | - |
+| [Big Agnes](http://www.bigagnes.com/) | US | Lightweight, quality tents | :heavy_check_mark: | - |
+| [NEMO](http://www.nemoequipment.com) | US | Tents | :heavy_check_mark: | A bit on the heavy side, but quality |
+| [Osprey](ospreypacks.com) | US & EU | Backpacks | :heavy_check_mark: | - |
 
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. Just visit the site, find out what products they're selling, if they ship internationally, etc..
