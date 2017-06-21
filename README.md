@@ -100,7 +100,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Shelters
 | Website | Country | International shipping | Notes |
 | ------- | ------- | ---------------------- | ----- |
-| [Terra Nova](http://www.terra-nova.co.uk) | :heavy_check_mark: | - |
+| [Terra Nova](http://www.terra-nova.co.uk) | UK | :heavy_check_mark: | - |
 
 ### Hammocks & hammock gear
 | Website | Country |  International shipping | Notes |
