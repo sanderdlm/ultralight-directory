@@ -1,11 +1,12 @@
 # Ultralight directory
 Compiled list of ultralight vendors and their wares, with basic information visible on-the-fly and a quality rating
 
-## Progress
+## Ranking system
 
-1. Go over each url and visit the website. Gather basic information and list it per region
-2. Figure out a system to give a quality rating to a vendor (only for cottage brands). Start with the popular ones.
-3. Build a complete list, per region, of trusted cottage ultralight vendors.
+* C: Poor quality or customer service, avoid.
+* B: Decent gear but one or more issues with vendor (list the issue)
+* A: Excellent gear and no issues
+* S: Superb gear and popular brand. Flavor of the month on r/ul ¯\\_(ツ)_/¯
 
 ### United states
 | Website | Country | Products | International shipping | Rating |
