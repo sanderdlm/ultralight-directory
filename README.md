@@ -5,8 +5,8 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 
 * -: Unknown
 * C: Multiple issues with the gear or the vendor, avoid.
-* B: Decent gear but one or more issues with vendor (list the issue)
-* A: Excellent gear and no issues
+* B: Decent gear but has an issue (list the issue)
+* A: Excellent gear, no issues
 * S: Superb gear and popular brand. Flavor of the month on r/ul ¯\\_(ツ)_/¯
 
 ## United states
