@@ -11,7 +11,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Survival Resources](http://www.bepreparedtosurvive.com) | Yes | - |
 | [Borah Gear](http://www.borahgear.com) | Yes | Cheap 5.5x9 tarp |
 | [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | No | - |
-| [Gossamer Gear](http://www.gossamergear.com) | Yes | - |
+| [Gossamer Gear](http://www.gossamergear.com) :fire: | Yes | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | - |
 | [LightHeart Gear](http://www.lightheartgear.com) | Yes | - |
 | [MLD](http://www.mountainlaureldesigns.com) | Yes | - |
@@ -93,7 +93,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 ### Shelters
 | Website | Country | International shipping | Notes |
 | ------- | ------- | ---------------------- | ----- |
-| [terra-nova](http://www.terra-nova.co.uk) | Yes | - |
+| [Terra Nova](http://www.terra-nova.co.uk) | Yes | - |
 
 ### Hammocks
 | Website | Country |  International shipping | Notes |
