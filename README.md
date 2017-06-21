@@ -15,11 +15,12 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | - |
 | [LightHeart Gear](http://www.lightheartgear.com) | Yes | - |
 | [MLD](http://www.mountainlaureldesigns.com) | Yes | - |
+| [Simply Light Designs](http://www.simplylightdesigns.com) | Yes | - |
 | [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | - |
 | [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | - |
 | [Zpacks](http://www.zpacks.co )| Yes | Pricy, but high quality CF gear |
 
-### Hammocks
+### Hammocks & hammock gear
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
 | [2qzqhammockhanger](http://www.2qzqhammockhanger.com) | ? | - |
@@ -27,13 +28,15 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Appalachian Hammock](http://www.appalachianhammock.com) | No | - |
 | [Arrowhead Equipment](http://www.arrowhead-equipment.com) | Yes | - |
 | [Bakpocket](http://www.bakpocket-paks.com) | No | - |
+| [Bearded Hanger](https://beardedhanger.com/) | Yes | - |
 | [BoneFire Gear](http://www.bonefiregear.com) | No | - |
 | [Butt-in-a-sling gear](http://www.buttinasling.com) | Yes | - |
 | [Dream Hammock](http://www.dream-hammock.com) | Yes | - |
 | [Dutchwaregear](http://www.dutchwaregear.com) | Yes | - |
+| [Simply Light Designs](http://www.simplylightdesigns.com) | Yes | - |
 | [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | - |
 
-### Backpacks
+### Packs
 | Website | International shipping | Notes |
 | ------- | ---------------------- | ----- |
 | [Appalachian Ultralight](http://www.appalachianultralight.com/)| Yes | - |
@@ -58,7 +61,9 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Enlightened Equipment](http://www.enlightenedequipment.com) | Yes | - |
 | [Feathered Friends](http://www.featheredfriends.com) | Yes | - |
 | [Katabatic Gear](http://www.katabaticgear.com) | Yes | - |
+| [Loco Libre Gear](http://www.locolibregear.com) | - | - |
 | [Nunatak Equipment](http://www.nunatakusa.com) | Yes | - |
+| [Simply Light Designs](http://www.simplylightdesigns.com) | Yes | - |
 
 ### Clothing
 | Website | International shipping | Notes |
@@ -82,6 +87,7 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | Website | Products | International shipping | Notes |
 | ------- | -------- | ---------------------- | ----- |
 | [Bare Boxer](http://www.bareboxer.com) | Bear canister | No | - |
+| [Batchstovez](http://www.batchstovez.com/) | Alcohol stoves | Yes | - |
 | [Bearvault](http://www.bearvault.com) | Bear canisters | No | - |
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | ? | - |
 | [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | Yes | - |
@@ -95,13 +101,13 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | ------- | ------- | ---------------------- | ----- |
 | [Terra Nova](http://www.terra-nova.co.uk) | Yes | - |
 
-### Hammocks
+### Hammocks & hammock gear
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
 | [Amok](http://www.eu.amokequipment.com) or [Amok US](https://www.amokequipment.com/) | Norway | Yes |  - |
 | [DD Hammocks](http://www.ddhammocks.com) | UK | No | - |
 
-### Backpacks
+### Packs
 | Website | Country |  International shipping | Notes |
 | ------- | ------- |  ---------------------- | ----- |
 | [Laufbursche](https://www.laufbursche-gear.de/) | Germany | Yes | - |
@@ -143,8 +149,8 @@ Compiled list of ultralight vendors, organized per region and gear type, with ba
 | [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - |
 | [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | Yes | - |
 | [Locus Gear](http://www.locusgear.com) | China | Shelters & trekking poles | Yes |
-| [Magicwand](http://www.magicwand.jp) | Japan | No idea | ? | Needs translation |
-| [Yamatomichi](http://www.yamatomichi.com) | China | ? | Needs translation |
+| [Magicwand](http://www.magicwand.jp) | Japan | ? | ? | Needs translation |
+| [Yamatomichi](http://www.yamatomichi.com) | China | ? | ? | Needs translation |
 
 ## Non-cottage brands
 | Website | Country | Products | International shipping | Notes |
@@ -194,7 +200,6 @@ You can move them up to their respective region/type once you're done.
 | [x](http://www.limmercustomboot.com) |
 | [x](http://www.litetrail.com) |
 | [x](http://www.littlbug.com) |
-| [x](http://www.locolibregear.com) |
 | [x](http://www.lorpennorthamerica.com) |
 | [lukesultralite](http://www.lukesultralite.com) |
 | [x](http://www.luminaid.com) |
@@ -272,7 +277,6 @@ You can move them up to their respective region/type once you're done.
 | [x](http://www.simond.com/en/1-Home) |
 | [x](http://www.simpleoutdoorstore.com/gear.html) |
 | [x](http://www.simplybetterthings.com) |
-| [x](http://www.simplylightdesigns.com) |
 | [x](http://www.skipulk.com) |
 | [x](http://www.slaktrak.com/#slak-trak) |
 | [x](http://www.sleepingbags-cumulus.eu) |
@@ -280,7 +284,6 @@ You can move them up to their respective region/type once you're done.
 | [x](http://www.snowclaw.com) |
 | [x](http://www.snowshoes.com) |
 | [x](http://www.snowtrekkertents.com) |
-| [snugpak](http://www.snugpak.com) |
 | [x](http://www.solostove.com) |
 | [x](http://www.spareone.com) |
 | [x](http://www.speerhammocks.com) |
