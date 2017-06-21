@@ -21,6 +21,10 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | [Etowah Outfitters](http://www.shop.backpackingadventuregear.com) | No | - | - |
 | [Gossamer Gear](http://www.gossamergear.com) | Yes | S | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | S | - |
+| [MLD](http://www.mountainlaureldesigns.com) | Yes | S | - |
+| [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | S | - |
+| [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | S | - |
+| [Zpacks](http://www.zpacks.co )| Yes | S | - |
 
 ### Hammocks
 | Website | International shipping | Rating | Notes |
@@ -34,16 +38,34 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | [Butt-in-a-sling gear](http://www.buttinasling.com) | Yes | - | - |
 | [Dream Hammock](http://www.dream-hammock.com) | Yes | - | - |
 | [Dutchwaregear](http://www.dutchwaregear.com) | Yes | A | - |
+| [Six Moon Designs](http://www.sixmoondesigns.com) | Yes | S | - |
 
 ### Backpacks
 | Website | International shipping | Rating | Notes |
 | ------- | ---------------------- | ------ | ----- |
+| [Appalachian Ultralight](http://www.appalachianultralight.com/)| Yes | S | - |
 | [Cilogear](http://www.cilogear.com) | No | - | - |
 | [Elemental Horizons](http://www.elementalhorizons.com) | Yes | - | - |
 | [Equinox](http://www.equinoxltd.com) | Yes | - | - |
 | [Cooke Custom Sewing](http://www.cookecustomsewing.com) | Yes | - | - |
+| [Granite Gear](http://www.granitegear.com) |
 | [Gossamer Gear](http://www.gossamergear.com) | Yes | S | - |
 | [Hyperlite Mountain Gear](http://www.hyperlitemountaingear.com) | Yes | S | - |
+| [MLD](http://www.mountainlaureldesigns.com) | Yes | S | - |
+| [Pa'lante packs](http://www.palantepacks.com/) | Yes | S | - |
+| [Superior Wilderness Designs](http://www.swdbackpacks.com/) | Yes | S | - |
+| [ULA equipment](http://www.ula-equipment.com) | Yes | S | - |
+| [Yama Mountain Gear](http://www.yamamountaingear.com) | Yes | S | - |
+| [Zimmerbuilt](http://www.zimmerbuilt.com) | Yes | S | - |
+| [Zpacks](http://www.zpacks.co )| Yes | S | - |
+
+### Sleeping bags/quilts
+| Website | International shipping | Rating | Notes |
+| ------- | ---------------------- | ------ | ----- |
+| [Enlightened Equipment](http://www.enlightenedequipment.com) | Yes | S | - |
+| [Feathered Friends](http://www.featheredfriends.com) | Yes | S | - |
+| [Katabatic Gear](http://www.katabaticgear.com) | Yes | S | - |
+| [Nunatak Equipment](http://www.nunatakusa.com) | Yes | S | - |
 
 ### Clothing
 | Website | International shipping | Rating | Notes |
@@ -71,7 +93,6 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | [Brasslite](http://www.brasslite.com) | Alcohol stoves | - | ? | - |
 | [Bushbuddy](http://www.bushbuddy.ca) | Wood stove | Yes | - | - |
 | [Dirty Girl Gaiters](http://www.dirtygirlgaiters.com) | Gaiters (with cool patterns) | Yes | S | - |
-| [Enlightened Equipment](http://www.enlightenedequipment.com) | Down quilts | Yes | S | - |
 
 ## Europe
 *Note: Most, if not all US vendors, will **not** cover import fees to Europe. Add 20-40 euros depending on the size & weight of the product you buy.*
@@ -89,6 +110,11 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 ### Backpacks
 | Website | Country |  International shipping | Rating | Notes |
 | ------- | ------- |  ---------------------- | ------ | ----- |
+
+### Sleeping bags/quilts
+| Website | Country |  International shipping | Rating | Notes |
+| ------- | ------- |  ---------------------- | ------ | ----- |
+| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Down sleeping bags, quilts & clothing | Yes | S | - |
 
 ### Clothing
 | Website | Country |  International shipping | Rating | Notes |
@@ -113,7 +139,6 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | ------- | ------- |  -------- | ---------------------- | ------ | ----- |
 | [Backpackinglight](http://www.backpackinglight.co.uk) | UK | Clothing, shelters, sleep systems, accessories, backpacks (US import - has a ton of stuff) | Yes | A | - |
 | [Bear Bones bikepacking](http://www.bearbonesbikepacking.co.uk) | UK | Bikepacking tools & accessories | Yes | - | - |
-| [Cumulus](http://sleepingbags-cumulus.eu/) | Poland | Down sleeping bags, quilts & clothing | Yes | S | - |
 
 ## Asia
 
@@ -121,6 +146,7 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | ------- | ------- | -------- | ---------------------- | ------ | ----- |
 | [Picharpak](http://store.picharpak.com/index.php) | Hong Kong | Tarps, packs, wallets, stuff sacks & Accessories | Yes | - | - |
 | [KS-ultralightgear](http://www.ks-ultralightgear.com) | Japan | Custom backpacks | Yes | S | - |
+| [Locus Gear](http://www.locusgear.com) | China | SHelters & trekking poles | Yes | S |
 
 ## Non-cottage brands
 | Website | Country | Products | International shipping | Notes |
@@ -134,20 +160,19 @@ Compiled list of ultralight vendors and their wares, organized per region and ge
 | [Exofficio](http://www.exofficio.com) | US | Underwear | No | - |
 | [Hilleberg](http://www.hilleberg.com) | Sweden | High quality tents & tarps | Yes | S | - |
 | [Big Agnes](http://www.bigagnes.com/) | US | Lightweight, quality tents | Yes | S | - |
-
+| [NEMO](http://www.nemoequipment.com) | US | Tents | Yes | S | A bit on the heavy side, but quality |
+| [Osprey](ospreypacks.com) | US & EU | Backpacks | Yes | S | - |
 ## To do
 If you want to help, fork the repo and start filling out these to-do records. You can move them up to their respective region/type once you're done. 
 
 | Website | Country | Products | International shipping | Rating | Notes |
 | ------- | ------- | -------- | ---------------------- | ------ | ----- |
-| [featheredfriends](http://www.featheredfriends.com) |
 | [flatcatgear](http://www.flatcatgear.com) |
 | [flyweightdesigns](http://www.flyweightdesigns.com) |
 | [fozzils](http://www.fozzils.com) |
 | [gofastandlight](http://www.gofastandlight.com) |
 | [goosefeetgear](http://www.goosefeetgear.com) | 
 | [grandtrunk](http://www.grandtrunk.com) |
-| [granitegearstore](http://www.granitegearstore.com) |
 | [gryphongear](http://www.gryphongear.com/) |
 | [hammockgear](http://www.hammockgear.com) |
 | [hammocktent](http://www.hammocktent.com) |
@@ -162,7 +187,6 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 | [jwbasecamp](http://www.jwbasecamp.com/Articles/SuperCat) |
 | [x](http://www.kahtoola.com) |
 | [kammok](http://www.kammok.com) |
-| [katabaticgear](http://www.katabaticgear.com) |
 | [klymit](http://www.klymit.com) |
 | [laufbursche](https://www.laufbursche-gear.de/) |
 | [x](http://www.lawsonequipment.com) |
@@ -172,7 +196,6 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 | [x](http://www.litetrail.com) |
 | [x](http://www.littlbug.com) |
 | [x](http://www.locolibregear.com) |
-| [locusgear](http://www.locusgear.com) |
 | [x](http://www.lorpennorthamerica.com) |
 | [lukesultralite](http://www.lukesultralite.com) |
 | [x](http://www.luminaid.com) |
@@ -196,19 +219,16 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 | [x](http://www.moonlight-gear.com) |
 | [x](http://www.mosquitohammock.com) |
 | [mountainhardwear](http://www.mountainhardwear.com) |
-| [mountainlaureldesigns](http://www.mountainlaureldesigns.com) |
 | [x](http://www.mudgear.com) |
 | [x](http://www.mukluks.com) |
 | [x](http://www.multimat.uk.com) |
 | [x](http://www.myfireti.com) |
 | [x](http://www.mysteryranch.com) |
-| [nemoequipment](http://www.nemoequipment.com) |
 | [x](http://www.ninjagloves.com) |
 | [x](http://www.nomadicstovecompany.com) |
 | [x](http://www.northernlites.com) |
 | [x](http://www.northernoutfitters.com) |
 | [x](http://www.northernsledworks.com) |
-| [x](http://www.nunatakusa.com) |
 | [x](http://www.nwalpine.com) |
 | [x](http://www.occuk.co.uk) |
 | [x](http://www.ogawand.com) |
@@ -255,7 +275,6 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 | [x](http://www.simpleoutdoorstore.com/gear.html) |
 | [x](http://www.simplybetterthings.com) |
 | [x](http://www.simplylightdesigns.com) |
-| [sixmoondesigns](http://www.sixmoondesigns.com) |
 | [x](http://www.skipulk.com) |
 | [x](http://www.slaktrak.com/#slak-trak) |
 | [x](http://www.sleepingbags-cumulus.eu) |
@@ -271,7 +290,6 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 | [suluk46](http://www.suluk46.com) |
 | [sunprecautions](http://www.sunprecautions.com) |
 | [supaiadventuregear](http://www.supaiadventuregear.com) |
-| [swdbackpacks](http://www.swdbackpacks.com/) |
 | [sweaterchalet](http://www.sweaterchalet.com) |
 | [tadvgear](http://www.tadvgear.com) |
 | [tarptent](http://www.tarptent.com) |
@@ -328,10 +346,7 @@ If you want to help, fork the repo and start filling out these to-do records. Yo
 | [woodgaz-stove](http://www.woodgaz-stove.com) |
 | [wristies](http://www.wristies.com) |
 | [wyominglostandfound](http://www.wyominglostandfound.com) |
-| [yamamountaingear](http://www.yamamountaingear.com) |
 | [yamatomichi](http://www.yamatomichi.com) |
 | [zebralight](http://www.zebralight.com) |
 | [zenstoves](http://www.zenstoves.net) |
 | [zerogramgear](http://www.zerogramgear.com) |
-| [Zimmerbuilt](http://www.zimmerbuilt.com) |
-| [Zpacks](http://www.zpacks.co )|
